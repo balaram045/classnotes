@@ -10,5 +10,6 @@ scLND
 NCKd
 Cnc
 javascript
-
+jquery
+angular js
 
